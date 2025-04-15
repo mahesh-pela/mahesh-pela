@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-pela&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-pela" /> </p>
 
-- 🔭 I’m currently working on [QuickNotes(A todo App)](https://github.com/mahesh-pela/TodoApp-QuickNotes)
+- 🔭 I’m currently working as Flutter Developer at Bizhub Consulting Pvt.Ltd having almost 1 year of working experience
 
 - 🌱 I’m currently learning **Flutter, Machine Learning and Computer Vision**
 
